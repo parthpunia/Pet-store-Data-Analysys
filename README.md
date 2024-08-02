@@ -1,4 +1,4 @@
-
+# Pet store Data Analysys
 
 This project leverages data analytics to improve the operations, sales, and customer satisfaction of a pet store. Using SQL, Google Spreadsheets, and Tableau, we aim to collect, process, analyze, and visualize data to provide actionable insights for the business.
 
